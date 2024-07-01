@@ -1,5 +1,5 @@
-plotly 
-scikit-learn 
-jupyterlab 
-streamlit 
-pingouin
+chardet
+gdown
+xlsxwriter
+sqlalchemy
+beautifulsoup4
